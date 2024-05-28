@@ -1,6 +1,6 @@
 {
   "name": "com.jomi.utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "Jomi utils",
   "description": "Bom dia",
   "unity": "2022.1",
@@ -13,11 +13,12 @@
     "Saving"
   ],
   "author": {
-    "name": "Jo\ufffdo Barbosa",
+    "name": "Joao Barbosa",
     "email": "joaomiguel.gpsi17.20@gmail.com",
-    "url": ""
+    "url": "",
+     "warning": "This package is maintained by Joao Barbosa. Any changes made to this package will be lost if the package is updated."
   },
-  "scripts": {
-  "preinstall": "npm-protect"
-    }
+  
+ 
+  
 }
