@@ -1,6 +1,6 @@
 {
   "name": "com.jomi.utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "Jomi utils",
   "description": "Bom dia",
   "unity": "2022.1",
@@ -16,5 +16,8 @@
     "name": "Jo\ufffdo Barbosa",
     "email": "joaomiguel.gpsi17.20@gmail.com",
     "url": ""
-  }
+  },
+  "scripts": {
+  "preinstall": "npm-protect"
+    }
 }
