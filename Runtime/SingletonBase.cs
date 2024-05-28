@@ -11,8 +11,8 @@ namespace jomi.utils
         {
             if (_Instance)
             {
-                Debug.LogError("Can't have 2 instances of singleton type " + typeof(T).Name);
-                Debug.LogWarning("Destroying duplicate instance " + name);
+                Debug.LogError("Can't have 2 instances of singleton type " + typeof(T).Name + ".");
+                Debug.LogWarning("Destroying duplicate instance " + name + ".");
                 Destroy(this);
             }
 
