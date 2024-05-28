@@ -17,6 +17,7 @@ namespace jomi.utils
             return false;
         }
 
+
         /// <summary> (Make a description) </summary> 
         public static Vector3 Dontknow(Vector3 origin, Vector3 direction, float y) => origin - direction * ((origin.y - y) / direction.y);
 
