@@ -1,0 +1,20 @@
+{
+  "name": "com.jomi.utils",
+  "version": "1.0.0",
+  "displayName": "Jomi utils",
+  "description": "Bom dia",
+  "unity": "2022.1",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  },
+  "keywords": [
+    "jomi",
+    "utils",
+    "Saving"
+  ],
+  "author": {
+    "name": "Jo\ufffdo Barbosa",
+    "email": "joaomiguel.gpsi17.20@gmail.com",
+    "url": ""
+  }
+}
